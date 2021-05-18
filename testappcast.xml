@@ -3,10 +3,10 @@
     <channel>
         <title>Storel</title>
         <item>
-            <title>Version 8.0.0</title>
+            <title>Version 7.2.3</title>
             <description>Storel</description>
             <pubDate>Thu, 17 Dec 2020 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.xtellus.storel" sparkle:version="8.0.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.xtellus.storel" sparkle:version="7.2.3" sparkle:os="android" />
             <!--<sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> it will also disable ignore and later buttons-->
         </item>
     </channel>
